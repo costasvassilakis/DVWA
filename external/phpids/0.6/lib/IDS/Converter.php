@@ -76,7 +76,7 @@ class IDS_Converter
     }
 
     /**
-     * Check for comments and erases them if available
+     * Check for comments and erases them if present
      *
      * @param string $value the value to convert
      *
